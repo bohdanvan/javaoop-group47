@@ -7,7 +7,9 @@ Prog.kiev.ua. Java OOP. Группа 47
 
 [Java OOP. Богдан. Группа 47. Лекции 3-4 (04.03.2017)](https://prog.kiev.ua/forum/index.php/topic,2807.0.html)
 
-[Java OOP. Богдан. Группа 47. Лекции 5-6 (11.03.2017)](https://prog.kiev.ua/forum/index.php/board,2.0.html)
+[Java OOP. Богдан. Группа 47. Лекции 5-6 (11.03.2017)](https://prog.kiev.ua/forum/index.php/topic,2819.0.html)
+
+[Java OOP. Богдан. Группа 47. Лекции 7-8 (18.03.2017)](https://prog.kiev.ua/forum/index.php/topic,2836.0.html)
 
 ## Видео/аудио лекций другой группы
 
